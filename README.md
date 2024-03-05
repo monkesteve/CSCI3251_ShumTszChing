@@ -1,1 +1,1 @@
-# CSCI3251_ShumTszChing
+Hello, I'm Steven at CUHK CSE!
