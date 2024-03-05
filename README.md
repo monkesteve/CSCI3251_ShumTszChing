@@ -1,1 +1,1 @@
-Hello, I'm Steven at CUHK CSE!
+This is the project of Shum Tsz Ching
